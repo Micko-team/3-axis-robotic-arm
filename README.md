@@ -42,4 +42,4 @@ Special thanks to Erfan for his valuable collaboration throughout the project.
 
 License
 
-This project is released under the MIT License.
+This project is released under the MRL License.
